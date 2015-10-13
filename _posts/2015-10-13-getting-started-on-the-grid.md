@@ -1,22 +1,29 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
-author: []
-datePublished: '2015-10-13T01:43:37.297Z'
-dateModified: '2015-10-12T21:32:11.354Z'
-sourcePath: _posts/2015-10-13-getting-started-on-the-grid.md
-published: true
 inFeed: true
 hasPage: true
 inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'Playlist of moody tracks featuring female vocalists....with NO Lana Del Rey OR Grimes!!!'
+datePublished: '2015-10-13T01:51:45.694Z'
+dateModified: '2015-10-13T01:50:55.425Z'
+title: Deacon LF
+author: []
+sourcePath: _posts/2015-10-13-getting-started-on-the-grid.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 url: getting-started-on-the-grid/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
-
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+# Deacon LF
 
 ## Creating a Site
 
