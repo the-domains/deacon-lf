@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "It's super dope"
-datePublished: '2015-10-13T02:05:46.148Z'
-dateModified: '2015-10-13T02:05:35.141Z'
+datePublished: '2015-10-13T02:06:51.790Z'
+dateModified: '2015-10-13T02:06:25.694Z'
 title: Check out this playlist
 authors: []
 publisher:
