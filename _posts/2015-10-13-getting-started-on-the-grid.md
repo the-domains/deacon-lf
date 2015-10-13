@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Playlist of moody tracks featuring female vocalists....with NO Lana Del Rey OR Grimes!!!'
-datePublished: '2015-10-13T01:51:45.694Z'
-dateModified: '2015-10-13T01:50:55.425Z'
-title: Deacon LF
+description: 'Playlist of moody tracks featuring female vocalists....with NO Lana Del Rey OR Grimes!!! https://open.spotify.com/user/124324838/playlist/3ovilSUGCZBZ3lA0qJi6Om'
+datePublished: '2015-10-13T02:00:30.253Z'
+dateModified: '2015-10-13T01:54:18.149Z'
+title: GUHLS
 author: []
 sourcePath: _posts/2015-10-13-getting-started-on-the-grid.md
 published: true
@@ -23,9 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Deacon LF
-
-## Creating a Site
+# 
 
 From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
